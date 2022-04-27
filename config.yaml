@@ -1,4 +1,4 @@
-baseURL: ''
+baseURL: 'https://edmpro.netlify.app/'
 title: ouR Academy 
 theme: educenter-hugo
 paginate: '6'
