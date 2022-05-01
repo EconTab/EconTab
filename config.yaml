@@ -1,5 +1,5 @@
 baseURL: 'https://edmpro.netlify.app/'
-title: edspro 
+title: edmprofessional 
 theme: educenter-hugo
 paginate: '6'
 summaryLength: '10'
@@ -13,7 +13,7 @@ params:
     enable: yes
     expire_days: 2
   description: This is meta description
-  email: edspro@gmail.com
+  email: edmpro.enquiry@gmail.com
   google_analitycs_id: ''
   logo: images/logo.png
   map:
