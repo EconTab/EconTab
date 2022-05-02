@@ -6,18 +6,18 @@ summaryLength: '10'
 disqusShortname: tbsm
 disableLanguages: [fr]
 params:
-  address: Delhi NCR - 110001
-  author: Husain
+  address: Delhi-NCR 
+  author: EDM Pro
   contact_form_action: '#'
   cookies:
     enable: yes
     expire_days: 2
-  description: This is meta description
+  description: EDM Professional is an website to help individuals, groups and community to enhance there understanding of data and patterns.
   email: edmpro.enquiry@gmail.com
   google_analitycs_id: ''
   logo: images/logo.png
   map:
-    enable: yes
+    enable: no
     gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places
     map_latitude: '28.592'
     map_longitude: '77.162'
@@ -61,8 +61,7 @@ params:
 Languages:
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2022 ouR-Academy.com has intellectual property rights over all underlyings & belongings.
-    home: Home
+    copyright: Copyright &copy;  edmprofessional.com 
     languageCode: en-us
     languageName: En
     menu:
