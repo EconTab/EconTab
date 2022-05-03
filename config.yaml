@@ -1,5 +1,5 @@
 baseURL: 'https://edmpro.netlify.app/'
-title: edmprofessional 
+title: EDMProfessional 
 theme: educenter-hugo
 paginate: '6'
 summaryLength: '10'
@@ -11,11 +11,11 @@ params:
   contact_form_action: '#'
   cookies:
     enable: yes
-    expire_days: 2
+    expire_days: 365
   description: EDM Professional is an website to help individuals, groups and community to enhance there understanding of data and patterns.
   email: edmpro.enquiry@gmail.com
   google_analitycs_id: ''
-  logo: images/logo.png
+  logo: images/logo3.png
   map:
     enable: no
     gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places
@@ -61,7 +61,7 @@ params:
 Languages:
   en:
     contentDir: content/english
-    copyright: Copyright &copy;  edmprofessional.com 
+    copyright: Copyright &copy; EDMProfessional.com 
     languageCode: en-us
     languageName: En
     menu:
