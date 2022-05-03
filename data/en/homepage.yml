@@ -35,6 +35,18 @@ slider:
         enable : true
         label : "Apply now"
         link : "contact/"
+        
+        
+        # slider item loop
+    - title : "Require helping hand in writing ?"
+      content : "We have best in business for writing professional with more than 10+ years of academics associates & professionals."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact/"
 
 
 ############################### Banner feature ###############################
