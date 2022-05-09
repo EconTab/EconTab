@@ -7,9 +7,9 @@ description: The course is designed to provide Basic knowledge of Python. Python
 draft: false
 duration: 06 Month
 fee: 'From: $000'
-image: images/courses/course-4.jpg
+image: images/courses/py_prog.jpg
 teacher: 'Husain'
-title: Data Analysis using Python
+title: Python programming
 type: course
 weekly: 03 hours
 ---

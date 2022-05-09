@@ -7,7 +7,7 @@ description: Data Analysis using Pandas & Numpy
 draft: false
 duration: 06 Month
 fee: 'From: $000'
-image: images/courses/course-4.jpg
+image: images/courses/da_python.jpg
 teacher: 'Husain'
 title: Data Analysis using Python
 type: course

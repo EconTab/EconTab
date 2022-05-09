@@ -7,7 +7,7 @@ description: Introduction to R and Data Analysis using R
 draft: false
 duration: 06 Month
 fee: 'From: $699'
-image: images/courses/course-2.jpg
+image: images/courses/da_r.jpg
 teacher: ''
 title: Data Analysis using R
 type: course
