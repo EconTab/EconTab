@@ -7,7 +7,7 @@ description: Introduction to web development in R using Shiny.
 draft: false
 duration: 06 Month
 fee: 'From: $0000'
-image: images/courses/course-6.jpg
+image: images/courses/rshiny400x200.jpg
 teacher: ''
 title: Introduction to Shiny App
 type: course

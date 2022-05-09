@@ -7,7 +7,7 @@ description: Introduction to R & RStudio.
 draft: false
 duration: 06 Month
 fee: 'From: $0000'
-image: images/courses/R-Programming.png
+image: images/courses/rprog400x200.jpg
 teacher: ''
 title: R Programming Introduction
 type: course

@@ -7,7 +7,7 @@ description: This module introduces basic machine learning concepts, tasks, and 
 draft: false
 duration: 06 Month
 fee: 'From: 0000'
-image: images/courses/course-3.jpg
+image: images/courses/ml.jpg
 teacher: ''
 title: Machine Learning
 type: course

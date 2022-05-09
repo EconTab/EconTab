@@ -7,7 +7,7 @@ description: Introduction to the field of data science, review common Python fun
 draft: false
 duration: 06 Month
 fee: 'From: $'
-image: images/courses/course-6.jpg
+image: images/courses/ds.jpg
 teacher: ''
 title: Introduction Data Science
 type: course
