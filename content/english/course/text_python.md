@@ -7,7 +7,7 @@ description: Introduction to text data manipulation for Data Analysis.
 draft: false
 duration: 06 Month
 fee: 'From: $0000'
-image: images/courses/course-6.jpg
+image: images/courses/text.jpg
 teacher: '#'
 title: Text Analysis in Python
 type: course

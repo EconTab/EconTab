@@ -7,7 +7,7 @@ description: Introduction to Text Manipulation in R
 draft: false
 duration: 06 Month
 fee: 'From: $0000'
-image: images/courses/course-5.jpg
+image: images/courses/text.jpg
 teacher: ''
 title: Text Analysis in R
 type: course
