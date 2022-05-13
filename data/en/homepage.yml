@@ -4,7 +4,7 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Time Issue ?"
+    - title : "TIME ISSUE ?"
       content : "Are you lacking time or having hectic schedule with your work. Don't worry we're here help you with your projects."
       animation_in : "left"
       animation_out : "right"
@@ -15,7 +15,7 @@ slider:
         link : "contact/"
 
     # slider item loop
-    - title : "Guidance ?"
+    - title : "GUIDANCE ?"
       content : "You need us to supervise you with technical terms and coding. Be it R, Python or dashboarding with RShiny, Tableau and Excel etc. Write to us ;)"
       animation_in : "left"
       animation_out : "right"
@@ -26,7 +26,7 @@ slider:
         link : "contact/"
 
     # slider item loop
-    - title : "You need skills ?"
+    - title : "SKILL UP ?"
       content : "Ah, We can help you alot with this. Since We have practitioner of different domains who understands it from their perspective and deliver the best."
       animation_in : "left"
       animation_out : "right"
@@ -38,7 +38,7 @@ slider:
         
         
         # slider item loop
-    - title : "Require helping hand in writing ?"
+    - title : "DO YOU NEED HELPING HANDS ?"
       content : "We have best in business professionals for writings with more than 10+ years of academics associates & professionals."
       animation_in : "left"
       animation_out : "right"
@@ -78,7 +78,7 @@ banner_feature:
 ############################## about ##################################
 about:
   enable : true
-  title : "About edmprofessional"
+  title : "About EDMProfessional"
   image : "images/about/about-us.jpg"
   content : "Our talented teams crafts the best code and implement best designed algrithms for our clients. \n
   
