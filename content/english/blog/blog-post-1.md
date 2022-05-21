@@ -16,3 +16,4 @@ type: post
 
 ## Supervised Learning
 
+It's machine learning segment
