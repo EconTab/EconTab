@@ -6,7 +6,7 @@ categories:
 date: "2022-02-01T15:27:17+06:00"
 description: Auto Regression Dynamic Learning for Price prediction
 draft: false
-image: images/blog/post-2.jpg
+image: images/blog/tsa.jpg
 tags:
 - Education
 - Automation

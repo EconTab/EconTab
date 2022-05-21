@@ -6,7 +6,7 @@ categories:
 date: "2022-01-01T15:27:17+06:00"
 description: 
 draft: false
-image: images/blog/post-1.jpg
+image: images/blog/supervisedlearning.jpg
 tags:
 - Advice
 - Machine Learning
