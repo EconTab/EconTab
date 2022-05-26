@@ -12,13 +12,13 @@ params:
   cookies:
     enable: yes
     expire_days: 365
-  description: EDM Professional is an website to help individuals, groups and community to enhance there understanding of data and patterns.
+  description: EDM Professional is an website to help working professionals, researchers and communities to enhance there understanding of data and patterns.
   email: edmpro.enquiry@gmail.com
-  google_analitycs_id: 'G-30LGQCLB53'
+  google_analitycs_id: "G-30LGQCLB53"
   logo: images/logo0.png
   map:
-    enable: no
-    gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyCtgRLRLMND7j9HDSd2zmk-9GYApdmSRFo&libraries=places
+    enable: yes
+    gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyCtgRLRLMND7j9HDSd2zmk-9GYApdmSRFo
     map_latitude: '28.592'
     map_longitude: '77.162'
     map_marker: images/marker.png
