@@ -2,11 +2,11 @@
 apply_url: 'http://eepurl.com/h3Kk11'
 bg_image: images/backgrounds/page-title.jpg
 category: Programming, Data Science, Python
-date: "2019-07-06T15:27:17+06:00"
+date: "2022-07-01T15:27:17+06:00"
 description: Data Analysis using Pandas & Numpy
 draft: false
-duration: 06 Month
-fee: 'From: $000'
+duration: 02 Months
+fee: 'From: $299'
 image: images/courses/da_python.jpg
 teacher: 'Husain'
 title: Data Analysis using Python
