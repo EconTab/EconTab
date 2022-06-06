@@ -1,5 +1,5 @@
 ---
-apply_url: '#'
+apply_url: 'http://eepurl.com/h3Kk11'
 bg_image: images/backgrounds/page-title.jpg
 category: Programming, Data Science, Python
 date: "2019-07-06T15:27:17+06:00"
