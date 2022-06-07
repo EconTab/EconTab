@@ -75,3 +75,13 @@ weekly: 03 hours
   - Box and Violin plots
   - Regression plots
   - Heatmaps and Clustered metrics
+  
+### Requirements
+
+Understanding of scripting language R & Basic knowledge of Mathematics and Statistics
+
+
+
+#### Apply [here](/contact/)
+
+  
