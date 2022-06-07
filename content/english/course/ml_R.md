@@ -1,5 +1,5 @@
 ---
-apply_url: 'https://getform.io/f/c825ec77-d026-459e-a65c-e54e274cfc63'
+apply_url: "contact/"
 bg_image: images/backgrounds/page-title.jpg
 category: ML, DS, R
 date: "2019-07-06T15:27:17+06:00"
