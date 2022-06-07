@@ -53,13 +53,9 @@ weekly: 03 hours
   
 ### Requirements
 
+Understanding of scripting language R & Basic knowledge of Mathematics and Statistics
 
 
 
-
-### How to Apply
-
-
-
-### Fees and Funding
+#### Apply [here](/contact/)
 

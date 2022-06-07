@@ -23,12 +23,14 @@ weekly: 03 hours
 
   -  Utilize Shiny dashboards to create professional looking web applications
 
+
 ### Requirements
 
+Understanding of scripting language R & Basic knowledge of Mathematics and Statistics
 
 
 
-### How to Apply
+#### Apply [here](/contact/)
 
 
 

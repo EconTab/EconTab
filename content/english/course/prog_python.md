@@ -19,6 +19,9 @@ weekly: 03 hours
 
 
 
-### Minimum Eligibility Criteria
+### Requirements
 
-* Basic Knowledge of Computer
+Understanding of scripting language R & Basic knowledge of Mathematics and Statistics
+
+
+#### Apply [here](/contact/)

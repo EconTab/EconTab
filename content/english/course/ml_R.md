@@ -59,7 +59,5 @@ Understanding of scripting language R & Basic knowledge of Mathematics and Stati
 
 
 
-### How to Apply
-
-![Contact](contact/)
+#### Apply [here](/contact/)
 

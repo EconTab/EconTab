@@ -54,9 +54,10 @@ weekly: 03 hours
   - Chi Square test for independence
   - Correlation test
   
-### How to Apply
+### Requirements
+
+Understanding of scripting language R & Basic knowledge of Mathematics and Statistics
 
 
 
-### Fees and Funding
-
+#### Apply [here](/contact/)

@@ -38,3 +38,14 @@ Modelling
   - Linear Regression
   - Logit Regression
   
+  
+### Requirements
+
+Understanding of scripting language R & Basic knowledge of Mathematics and Statistics
+
+
+
+#### Apply [here](/contact/)
+  
+  
+  
