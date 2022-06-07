@@ -8,7 +8,7 @@ disableLanguages: [fr]
 params:
   address: Delhi-NCR 
   author: EDM Professional
-  contact_form_action: 'https://getform.io/f/358a113f-d8a3-4286-8738-0955ced87363'
+  contact_form_action: 'https://getform.io/f/c825ec77-d026-459e-a65c-e54e274cfc63'
   cookies:
     enable: yes
     expire_days: 365
