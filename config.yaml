@@ -7,14 +7,14 @@ disqusShortname: tbsm
 disableLanguages: [fr]
 params:
   address: Delhi-NCR 
-  author: EDM Pro
+  author: EDM Professional
   contact_form_action: 'https://getform.io/f/358a113f-d8a3-4286-8738-0955ced87363'
   cookies:
     enable: yes
     expire_days: 365
   description: EDM Professional is an website to help working professionals, researchers and communities to enhance there understanding of data and patterns.
   email: edmpro.enquiry@gmail.com
-  google_analitycs_id: G-30LGQCLB53
+  google_analitycs_id: 'G-30LGQCLB53'
   logo: images/logo0.png
   map:
     enable: no
