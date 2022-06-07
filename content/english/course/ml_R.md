@@ -9,7 +9,7 @@ duration: 06 Month
 fee: 'From: 0000'
 image: images/courses/ml.jpg
 teacher: ''
-title: Machine Learning
+title: Machine Learning with Tidymodels
 type: course
 weekly: 03 hours
 ---
