@@ -8,7 +8,7 @@ draft: false
 duration: 02 Months
 fee: 'From: $299'
 image: images/courses/da_python.jpg
-teacher: 'Husain'
+teacher: 'Admin'
 title: Data Analysis using Python
 type: course
 weekly: 03 hours
