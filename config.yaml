@@ -14,7 +14,7 @@ params:
     expire_days: 365
   description: EDM Professional is an website to help working professionals, researchers and communities to enhance there understanding of data and patterns.
   email: edmpro.enquiry@gmail.com
-  google_analitycs_id: 'G-30LGQCLB53'
+  google_analitycs_id: G-30LGQCLB53
   logo: images/logo0.png
   map:
     enable: no
