@@ -28,7 +28,7 @@ description: Technically reach and effective number of years experience in the d
 draft: false
 image: images/teachers/teacher-4.png
 interest:
-- Economic
+- Economics
 - Data Science
 - Machine Learning 
 title: EDM Pro
