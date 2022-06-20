@@ -1,5 +1,5 @@
 ---
-apply_url: '#'
+apply_url: 'https://form.jotform.com/221701558731453'
 bg_image: images/backgrounds/page-title.jpg
 category: Data Science, Developers
 date: "2019-07-06T15:27:17+06:00"
