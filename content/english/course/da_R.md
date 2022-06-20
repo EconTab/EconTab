@@ -6,9 +6,9 @@ date: "2019-07-06T15:27:17+06:00"
 description: Introduction to R and Data Analysis using R 
 draft: false
 duration: 06 Month
-fee: 'From: $699'
+fee: 'From: $299'
 image: images/courses/da_r.jpg
-teacher: ''
+teacher: 'Admin'
 title: Data Analysis using R
 type: course
 weekly: 03 hours
@@ -59,5 +59,6 @@ weekly: 03 hours
 Understanding of scripting language R & Basic knowledge of Mathematics and Statistics
 
 
+**AND**
+: Liner Algebra, Vector Calculus, Data Structures and Programming
 
-#### Apply [here](/contact/)

@@ -6,7 +6,7 @@ date: "2019-07-06T15:27:17+06:00"
 description: Introduction to R & RStudio.
 draft: false
 duration: 06 Month
-fee: 'From: $0000'
+fee: 'From: $199'
 image: images/courses/rprog400x200.jpg
 teacher: ''
 title: R Programming Introduction
@@ -44,8 +44,5 @@ Modelling
 Understanding of scripting language R & Basic knowledge of Mathematics and Statistics
 
 
-
-#### Apply [here](/contact/)
-  
   
   

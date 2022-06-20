@@ -80,8 +80,8 @@ weekly: 03 hours
 
 Understanding of scripting language R & Basic knowledge of Mathematics and Statistics
 
+**AND**         
+: Liner Algebra, Vector Calculus, Data Structures and Programming
 
-
-#### Apply [here](/contact/)
 
   

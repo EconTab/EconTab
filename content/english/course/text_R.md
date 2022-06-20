@@ -6,7 +6,7 @@ date: "2019-07-06T15:27:17+06:00"
 description: Introduction to Text Manipulation in R
 draft: false
 duration: 06 Month
-fee: 'From: $0000'
+fee: 'From: $499'
 image: images/courses/text.jpg
 teacher: ''
 title: Text Analysis in R
@@ -42,7 +42,6 @@ weekly: 03 hours
 
 Understanding of scripting language R & Basic knowledge of Mathematics and Statistics
 
-
-
-#### Apply [here](/contact/)
+**AND**
+: Liner Algebra, Vector Calculus, Data Structures and Programming
 
