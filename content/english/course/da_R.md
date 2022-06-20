@@ -1,5 +1,5 @@
 ---
-apply_url: 'http://eepurl.com/h3Kk11'
+apply_url: 'https://www.jotform.com/build/221702249583456?iak=7e278c7e35405af4114265453723d82e-1c1fc76adc730df7'
 bg_image: images/backgrounds/page-title.jpg
 category: Data Analysis, R
 date: "2019-07-06T15:27:17+06:00"
