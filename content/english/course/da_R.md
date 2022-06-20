@@ -1,5 +1,5 @@
 ---
-apply_url: 'https://form.jotform.com/221702249583456'
+apply_url: 'https://form.jotform.com/221701558731453'
 bg_image: images/backgrounds/page-title.jpg
 category: Data Analysis, R
 date: "2019-07-06T15:27:17+06:00"
