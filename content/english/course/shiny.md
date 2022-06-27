@@ -6,7 +6,7 @@ date: "2019-07-06T15:27:17+06:00"
 description: Introduction to web development in R using Shiny.
 draft: false
 duration: 06 Month
-fee: 'From: $499'
+fee: 'From: INR 18999 | $ 1299'
 image: images/courses/rshiny400x200.jpg
 teacher: ''
 title: Introduction to Shiny App
@@ -28,7 +28,10 @@ weekly: 03 hours
 
 Understanding of scripting language R & Basic knowledge of Mathematics and Statistics
 
+### Course Fee:
 
+  -   Group training - INR 12999 | $ 999 (Non-Indians)
+  -   Individual training - INR 18999 | $ 1299 (Non-Indians)
 
 
 

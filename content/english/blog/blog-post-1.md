@@ -1,5 +1,5 @@
 ---
-author: SA Husain
+author: Admin
 bg_image: images/backgrounds/page-title.jpg
 categories:
 - Machine Learning
@@ -10,6 +10,7 @@ image: images/blog/supervisedlearning.jpg
 tags:
 - Advice
 - Machine Learning
+- Statistics
 title: Supervised Learning Intuition
 type: post
 ---

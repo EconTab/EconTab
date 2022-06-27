@@ -45,3 +45,8 @@ Understanding of scripting language R & Basic knowledge of Mathematics and Stati
 **AND**
 : Liner Algebra, Vector Calculus, Data Structures and Programming
 
+### Course Fee:
+
+  -   Group training - INR 8999 | $ 699 (Non-Indians)
+  -   Individual training - INR 14999 | $ 999 (Non-Indians) 
+

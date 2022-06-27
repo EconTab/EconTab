@@ -6,7 +6,7 @@ date: "2019-07-06T15:27:17+06:00"
 description: This module introduces basic machine learning concepts, tasks, and workflow using an example classification problem based on the K-nearest neighbors method, and implemented using the scikit-learn library. We will dive into a wider variety of supervised learning methods for both classification and regression, learning about the connection between model complexity and generalization performance, the importance of proper feature scaling, and how to control model complexity by applying techniques like regularization to avoid overfitting. In addition to k-nearest neighbors, this week covers linear regression (least-squares, ridge, lasso, and polynomial regression), logistic regression, support vector machines, the use of cross-validation for model evaluation, and decision trees.
 draft: false
 duration: 06 Month
-fee: 'From: 299$'
+fee: 'From: INR 9999 | $799 '
 image: images/courses/ml.jpg
 teacher: ''
 title: Machine Learning with Tidymodels
@@ -60,3 +60,8 @@ Understanding of scripting language R & Basic knowledge of Mathematics and Stati
 **AND**
 : Liner Algebra, Vector Calculus, Data Structures and Programming
 
+
+### Course Fee:
+
+  -   Group training - INR 4999 | $ 599 (Non-Indians)
+  -   Individual training - INR 9999 | $ 799 (Non-Indians) 

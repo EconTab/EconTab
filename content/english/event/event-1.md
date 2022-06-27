@@ -10,11 +10,11 @@ location: Online, Youtube
 publishDate: "2022-03-01T00:00:00Z"
 speaker:
 - designation: Teacher
-  image: images/event-speakers/speaker-1.jpg
+  image: images/event-speakers/speaker-4.png
   name: Admin
 - designation: Teacher
-  image: images/event-speakers/speaker-2.jpg
-  name: John Doe
+  image: images/event-speakers/speaker-4.png
+  name: Guest
 title: RStudio & RMarkdown
 type: event
 ---

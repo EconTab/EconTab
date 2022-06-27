@@ -6,7 +6,7 @@ date: "2019-07-06T15:27:17+06:00"
 description: Introduction to text data manipulation for Data Analysis.
 draft: false
 duration: 06 Month
-fee: 'From: $499'
+fee: 'From: INR 14999 | $ 999'
 image: images/courses/text.jpg
 teacher: '#'
 title: Text Analysis in Python
@@ -44,3 +44,8 @@ Understanding of scripting language R & Basic knowledge of Mathematics and Stati
 
 **AND**
 : Liner Algebra, Vector Calculus, Data Structures and Programming
+
+### Course Fee:
+
+  -   Group training - INR 8999 | $ 699 (Non-Indians)
+  -   Individual training - INR 14999 | $ 999 (Non-Indians) 

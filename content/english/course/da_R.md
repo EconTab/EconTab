@@ -6,7 +6,7 @@ date: "2019-07-06T15:27:17+06:00"
 description: Introduction to R and Data Analysis using R 
 draft: false
 duration: 06 Month
-fee: 'From: $299'
+fee: 'From:  INR 5999 | $699'
 image: images/courses/da_r.jpg
 teacher: 'Admin'
 title: Data Analysis using R
@@ -62,3 +62,7 @@ Understanding of scripting language R & Basic knowledge of Mathematics and Stati
 **AND**
 : Liner Algebra, Vector Calculus, Data Structures and Programming
 
+### Course Fee:
+
+  -   Group training - INR 3999 | USD 499 (Non-Indians)
+  -   Individual training - INR 5999 | USD 699 (Non-Indians)  

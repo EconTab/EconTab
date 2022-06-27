@@ -6,7 +6,7 @@ date: "2019-07-06T15:27:17+06:00"
 description: Introduction to R & RStudio.
 draft: false
 duration: 06 Month
-fee: 'From: $199'
+fee: 'From: INR 5499 | $ 549'
 image: images/courses/rprog400x200.jpg
 teacher: ''
 title: R Programming Introduction
@@ -43,6 +43,10 @@ Modelling
 
 Understanding of scripting language R & Basic knowledge of Mathematics and Statistics
 
+### Course Fee:
+
+  -   Group training - INR 3499 | $ 499 (Non-Indians)
+  -   Individual training - INR 5499 | $ 549 (Non-Indians) 
 
   
   
