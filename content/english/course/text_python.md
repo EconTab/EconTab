@@ -2,10 +2,10 @@
 apply_url: 'https://form.jotform.com/221701558731453'
 bg_image: images/backgrounds/page-title.jpg
 category: Data Science, Programming
-date: "2019-07-06T15:27:17+06:00"
+date: "2022-07-01T15:27:17+06:00"
 description: Introduction to text data manipulation for Data Analysis.
 draft: false
-duration: 06 Month
+duration: Flexible timing
 fee: 'From: INR 14999 | $ 999'
 image: images/courses/text.jpg
 teacher: '#'

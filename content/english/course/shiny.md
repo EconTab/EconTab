@@ -2,10 +2,10 @@
 apply_url: 'https://form.jotform.com/221701558731453'
 bg_image: images/backgrounds/page-title.jpg
 category: Data Science, Developers
-date: "2019-07-06T15:27:17+06:00"
+date: "2022-07-01T15:27:17+06:00"
 description: Introduction to web development in R using Shiny.
 draft: false
-duration: 06 Month
+duration: Flexible timing
 fee: 'From: INR 18999 | $ 1299'
 image: images/courses/rshiny400x200.jpg
 teacher: ''

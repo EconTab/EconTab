@@ -2,10 +2,10 @@
 apply_url: 'https://form.jotform.com/221701558731453'
 bg_image: images/backgrounds/page-title.jpg
 category: Python
-date: "2019-07-06T15:27:17+06:00"
+date: "2022-07-01T15:27:17+06:00"
 description: Introduction to the field of data science, review common Python functionality and features which data scientists use. You will learn the fundamentals of one of the most important toolkits Python has for data cleaning and processing -- pandas. You'll learn how to read in data into DataFrame structures, how to query these structures, and the details about such structures are indexed. you'll deepen your understanding of the python pandas library by learning how to merge DataFrames, generate summary tables, group data into logical pieces, and manipulate dates. We'll also refresh your understanding of scales of data, and discuss issues with creating metrics for analysis. The week ends with a more significant programming assignment. 
 draft: false
-duration: 06 Month
+duration: Flexible timing
 fee: 'From: INR 7999 | $699'
 image: images/courses/ds.jpg
 teacher: ''

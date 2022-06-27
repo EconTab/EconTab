@@ -5,7 +5,7 @@ category: Programming, Data Science, Python
 date: "2022-07-01T15:27:17+06:00"
 description: Data Analysis using Pandas & Numpy
 draft: false
-duration: 02 Months
+duration: Flexible timing
 fee: 'From:  INR 4999 | $299'
 image: images/courses/da_python.jpg
 teacher: 'Admin'
