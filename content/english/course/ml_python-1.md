@@ -6,7 +6,7 @@ date: "2022-07-01T15:27:17+06:00"
 description: This module introduces basic machine learning concepts, tasks, and workflow using an example classification problem based on the K-nearest neighbors method, and implemented using the scikit-learn library. We will dive into a wider variety of supervised learning methods for both classification and regression, learning about the connection between model complexity and generalization performance, the importance of proper feature scaling, and how to control model complexity by applying techniques like regularization to avoid over fitting. In addition to k-nearest neighbors, this week covers linear regression (least-squares, ridge, lasso, and polynomial regression), logistic regression, support vector machines, the use of cross-validation for model evaluation, and decision trees.
 draft: false
 duration: Flexible timing
-fee: 'From:  INR 9999 | $799 '
+fee: ' INR 9999 | $799 '
 image: images/courses/ml.jpg
 teacher: ''
 title: Machine Learning with Scikit-Learn

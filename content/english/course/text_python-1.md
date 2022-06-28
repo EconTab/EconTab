@@ -6,7 +6,7 @@ date: "2022-07-01T15:27:17+06:00"
 description: Introduction to text data manipulation for Data Analysis.
 draft: false
 duration: Flexible timing
-fee: 'From: INR 14999 | $ 999'
+fee: ' INR 14999 | $ 999'
 image: images/courses/text.jpg
 teacher: '#'
 title: Text Analysis in Python

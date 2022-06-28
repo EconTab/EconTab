@@ -6,7 +6,7 @@ date: "2022-07-01T15:27:17+06:00"
 description: Introduction to R and Data Analysis using R 
 draft: false
 duration: Flexible timing
-fee: 'From:  INR 5999 | $699'
+fee: ' INR 5999 | $699'
 image: images/courses/da_r.jpg
 teacher: 'Admin'
 title: Data Analysis using R

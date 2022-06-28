@@ -6,7 +6,7 @@ date: "2022-07-01T15:27:17+06:00"
 description: Introduction to web development in R using Shiny.
 draft: false
 duration: Flexible timing
-fee: 'From: INR 18999 | $ 1299'
+fee: ' INR 18999 | $ 1299'
 image: images/courses/rshiny400x200.jpg
 teacher: ''
 title: Introduction to Shiny App

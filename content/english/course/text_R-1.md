@@ -2,11 +2,11 @@
 apply_url: 'https://form.jotform.com/221701558731453'
 bg_image: images/backgrounds/page-title.jpg
 category: Data Science, Programming, R
-date: "2022-07-01T15:27:17+06:00"
+date: "2022-06-01T15:27:17+06:00"
 description: Introduction to Text Manipulation in R
 draft: false
 duration: Flexible timing
-fee: 'From: $499'
+fee: 'INR 1499 | $999'
 image: images/courses/text.jpg
 teacher: ''
 title: Text Analysis in R

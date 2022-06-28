@@ -6,7 +6,7 @@ date: "2022-07-01T15:27:17+06:00"
 description: Introduction to R & RStudio.
 draft: false
 duration: Flexible timing
-fee: 'From: INR 5499 | $ 549'
+fee: ' INR 5499 | $ 549'
 image: images/courses/rprog400x200.jpg
 teacher: ''
 title: R Programming Introduction
