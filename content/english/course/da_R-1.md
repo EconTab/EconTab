@@ -2,7 +2,7 @@
 apply_url: 'https://form.jotform.com/221701558731453'
 bg_image: images/backgrounds/page-title.jpg
 category: Data Analysis, R
-date: "2022-07-01T15:27:17+06:00"
+date: "2022-06-01T15:27:17+06:00"
 description: Introduction to R and Data Analysis using R 
 draft: false
 duration: Flexible timing

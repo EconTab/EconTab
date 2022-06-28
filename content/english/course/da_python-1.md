@@ -2,7 +2,7 @@
 apply_url: 'https://form.jotform.com/221701558731453'
 bg_image: images/backgrounds/page-title.jpg
 category: Programming, Data Science, Python
-date: "2022-07-01T15:27:17+06:00"
+date: "2022-06-01T15:27:17+06:00"
 description: Data Analysis using Pandas & Numpy
 draft: false
 duration: Flexible timing

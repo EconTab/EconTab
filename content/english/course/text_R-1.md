@@ -17,8 +17,6 @@ weekly: 03 hours
 
 ### About Course
 
-### About Course
-
 1.  Introduction
   - What is NLP
   - Applications of NLP
