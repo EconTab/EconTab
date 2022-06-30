@@ -6,7 +6,7 @@ description: Upcoming courses & events are...
 draft: false
 fee: 'From: Free'
 image: images/events/event-1.jpg
-location: Online, Youtube
+location: Online, YouTube
 publishDate: "2022-03-01T00:00:00Z"
 speaker:
 - designation: Teacher
