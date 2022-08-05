@@ -89,3 +89,8 @@ Liner Algebra, Vector Calculus, Data Structures and Programming
 
   -   Group training - INR 3999 | USD 499 (Non-Indians)
   -   Individual training - INR 5999 | USD 699 (Non-Indians)  
+
+
+### Mode
+
+Online means will be used for communication and teaching.
