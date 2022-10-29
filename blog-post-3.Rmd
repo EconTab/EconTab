@@ -17,6 +17,4 @@ title: Time Series Dynamic ARDL Modeling
 type: post
 ---
 
-## Dynamic ARDL Model
-
-Dynamic Auto Regressive Distributed Lag model is a very advanced supervised linear regression model which used to predict a continuous time outcome variable.
+$$y_1 = x_1 + \beta*x)2 + \epsilon$$
