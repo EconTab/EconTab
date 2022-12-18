@@ -76,7 +76,7 @@ Languages:
         - name: About
           url: about/
           weight: 1
-        - name: course
+        - name: courses
           url: course/
           weight: 2
         - hasChildren: yes
