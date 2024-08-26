@@ -61,7 +61,7 @@ params:
 Languages:
   en:
     contentDir: content/english
-    copyright: Copyright &copy; gttps://www.EDMProfessional.com or edmpro.netlify.app 
+    copyright: Copyright &copy; https://www.EDMProfessional.com or edmpro.netlify.app 
     languageCode: en-us
     languageName: En
     menu:
